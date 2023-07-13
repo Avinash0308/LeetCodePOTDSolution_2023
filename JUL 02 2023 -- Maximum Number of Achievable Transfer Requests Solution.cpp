@@ -1,3 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     void solve(vector<vector<int>> &requests, int n, int &ans, int ind, vector<int> &buil, int cur){
